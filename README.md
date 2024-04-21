@@ -49,7 +49,7 @@
                                 <br>캘린더/프레임/테마 페이지
                                 <br>마이페이지
                                 <br><strong style="color: white">백엔드</strong>
-                                <br>캘린더/마이페이지/테마
+                                <br>캘린더/테마<br>마이페이지
                                 <br>배포 및 zenkins settings
         </td>
         <td align="center"><strong style="color: white">프론트엔드</strong>
